@@ -374,3 +374,7 @@
   font-weight: 600;
   color: #384262;
 }
+
+.cl-footer > :nth-child(2) {
+  display: none;
+}
