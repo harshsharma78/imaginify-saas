@@ -378,3 +378,15 @@
 .cl-footer > :nth-child(2) {
   display: none;
 }
+
+.cl-userButtonPopoverFooter > div {
+  display: none;
+}
+
+.cl-navbar > :nth-child(3) {
+  display: none;
+}
+
+.cl-userButton-root > button:focus {
+  box-shadow: none;
+}
